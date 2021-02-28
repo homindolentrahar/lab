@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 986,
+      "text": "Beli minum",
+      "day": "Sabtu",
+      "reminder": true
+    },
+    {
+      "id": 348,
+      "text": "Beli makan",
+      "day": "Jumat",
+      "reminder": true
+    }
+  ]
+}
